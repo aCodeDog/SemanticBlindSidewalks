@@ -3,7 +3,7 @@
 envs:PaddlePaddle 2.4,Paddleseg,python 3.10.you can use test.ipynb to test this model.
 
 ## dataset
-Dataset for two types of blindsidewalks detection, Because the data is too large to put in Github, please click the link to get [datasets](https://drive.google.com/file/d/14zy1uvRh8fiuFsWJrqBHrkOpFr9RUx9H/view?usp=share_link) and [pre-trained params](https://drive.google.com/file/d/14zy1uvRh8fiuFsWJrqBHrkOpFr9RUx9H/view?usp=share_link]
+Dataset for two types of blindsidewalks detection, Because the data is too large to put in Github, please click the link to get [datasets](https://drive.google.com/file/d/14zy1uvRh8fiuFsWJrqBHrkOpFr9RUx9H/view?usp=share_link) and [pre-trained params].(https://drive.google.com/file/d/1SV09PFaX66nkxqTcUQptpphAhobZkVKy/view?usp=share_link)
 
 Classes ["blind sidewalks","others"] 
 
